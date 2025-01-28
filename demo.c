@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  printf("hello world"0;
+  printf("hello world");
+  print("welcome to vbit");
   return 0;
 }
